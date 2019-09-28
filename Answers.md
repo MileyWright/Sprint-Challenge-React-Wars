@@ -6,7 +6,8 @@
 
 
 2. What does it mean to think in react?
-
+    We have to think about our application's structure and how we want it to function as we build our components.
+    
 3. Describe state.
 
     Data that comes into our application is loaded and stored on state in a centralized component for state management. When data is being consumed in multiple components, its best to centralize that data in state. Components that’s rendered in a stateful component can receive that state data via a prop attribute. 
